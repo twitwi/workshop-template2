@@ -2,6 +2,7 @@
 layout: page
 title: Customizing Your Workshop's Website
 permalink: /customization/
+root: ..
 ---
 ## Configuration File
 
