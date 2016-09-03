@@ -1,3 +1,5 @@
+(edit to force rebuild gh-pages)
+
 # workshop-template
 
 This repository is [Software Carpentry][swc-site] and [Data Carpentry][dc-site]'s
